@@ -1,11 +1,11 @@
 <script setup lang="ts">
-  import FormValidation from './components/form-validation/FormValidation.vue';
+  import PokemonProject from './components/pokemon/PokemonProject.vue';
 
 </script>
 
 <template>
   <div id="app">
-    <FormValidation />
+    <PokemonProject />
   </div>
 </template>
 
