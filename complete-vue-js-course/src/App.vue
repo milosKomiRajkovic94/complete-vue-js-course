@@ -1,11 +1,11 @@
 <script setup lang="ts">
-  import PokemonProject from './components/pokemon/PokemonProject.vue';
+  import NumbersCompasible from './components/numbers-composible/NumbersCompasible.vue';
 
 </script>
 
 <template>
   <div id="app">
-    <PokemonProject />
+    <NumbersCompasible />
   </div>
 </template>
 

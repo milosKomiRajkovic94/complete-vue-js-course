@@ -3,7 +3,7 @@ import { ref, onBeforeMount } from 'vue';
 import PokemonCards from './PokemonCards.vue';
 
 const api = "https://pokeapi.co/api/v2/";
-const ids = [15, 26, 3];
+const ids = [10, 32, 1];
 interface Pokemon {
     id: number;
     name: string;
