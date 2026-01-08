@@ -1,11 +1,10 @@
 <script setup lang="ts">
-  import NumbersCompasible from './components/numbers-composible/NumbersCompasible.vue';
-
+  import MicroblogProject from './components/microblog/MicroblogProject.vue';
 </script>
 
 <template>
   <div id="app">
-    <NumbersCompasible />
+    <MicroblogProject />
   </div>
 </template>
 
