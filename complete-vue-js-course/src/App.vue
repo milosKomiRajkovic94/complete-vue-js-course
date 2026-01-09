@@ -1,10 +1,10 @@
 <script setup lang="ts">
-  import RouterProject from './components/router-project/RouterProject.vue';
+  import VuexProject from './components/vuex-project/VuexProject.vue';
 </script>
 
 <template>
   <div id="app">
-    <RouterProject />
+    <VuexProject />
   </div>
 </template>
 
