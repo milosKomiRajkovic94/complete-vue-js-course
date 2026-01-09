@@ -1,10 +1,10 @@
 <script setup lang="ts">
-  import MicroblogProject from './components/microblog/MicroblogProject.vue';
+  import RouterProject from './components/router-project/RouterProject.vue';
 </script>
 
 <template>
   <div id="app">
-    <MicroblogProject />
+    <RouterProject />
   </div>
 </template>
 
