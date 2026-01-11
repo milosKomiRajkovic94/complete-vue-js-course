@@ -1,6 +1,8 @@
 # 📘 Complete Vue.js Course
 
-**Implementing the full project examples from O’Reilly course: _“Complete Vue.js 3 (Incl. Options and Composition API's, Vue Router, Vuex)”_.** :contentReference[oaicite:0]{index=0}
+**Implementing the full project examples from O’Reilly course: _“Complete Vue.js 3 (Incl. Options and Composition API's, Vue Router, Vuex)”_.** by Lachlan Miller
+
+(Course link: https://learning.oreilly.com/course/complete-vuejs-3/9781803245287/) 
 
 A structured learning repository where each branch focuses on one primary **Vue.js feature**, helping you explore code examples and progressive implementations from beginner to advanced.
 
@@ -10,7 +12,8 @@ This repository contains:
 
 - A standalone branch for each major Vue.js concept
 - Simple example projects to explore how features work in isolation
-- Learn-by-doing code that matches sections commonly found in Vue.js courses and documentation :contentReference[oaicite:1]{index=1}
+- Learn-by-doing code that matches sections commonly found in Vue.js courses and documentation: https://vuejs.org/
+- Learn-by-doing code that matches sections commonly found in Vuex courses and documentation: https://vuex.vuejs.org/
 
 ---
 
